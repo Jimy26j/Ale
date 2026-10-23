@@ -207,7 +207,7 @@
     "mode": "SSH_BHTTP",
     "dt_protocol": "TCP",
     "dt_port": "8000",
-    "name": "BHTTP MUNDIAL",
+    "name": "CLARO #3",
     "dnstt_key": "",
     "dnstt_name_server": "",
     "dnstt_server": "",
@@ -398,7 +398,7 @@
     "bhttp_config": null
   },
   {
-    "category_id": 21,
+    "category_id": 25,
     "config_v2ray": null,
     "description": "SERVIDOR MODO FREE",
     "icon": "https://i.ibb.co/4gWDQmHL/ar.png",
