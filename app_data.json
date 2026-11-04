@@ -557,7 +557,7 @@
       "port": 0
     },
     "server": {
-      "host": "3.13.163.63.17",
+      "host": "3.163.63.17",
       "port": 80
     },
     "dns_server": {
@@ -565,7 +565,7 @@
       "dns2": "8.8.4.4"
     },
     "config_payload": {
-      "payload": "COPY / HTTP/1.1[crlf]Host: internet.tigo.com.py[crlf][crlf][split][crlf][crlf]GET- / HTTP/1.1[crlf]Host: internet.tigo.com.py[lf][lf]GET /app474806 HTTP/1.1[crlf]Host: [rotate=dmzrxqaocgkps.cloudfront.net;cloudfront-05.cdn-hub.org;d3h3ntcsfhmdx9.cloudfront.net][lf]Connection:  Upgrade[lf]Upgrade: websocket[lf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[lf][lf][split]",
+      "payload": "GET / HTTP/1.1[crlf]Host: internet.tigo.com.py[crlf][crlf][split][crlf][crlf]GET- / HTTP/1.1[crlf]Host: internet.tigo.com.py[lf][lf]GET /app474806 HTTP/1.1[crlf]Host: [rotate=dmzrxqaocgkps.cloudfront.net;cloudfront-05.cdn-hub.org;d3h3ntcsfhmdx9.cloudfront.net][lf]Connection:  Upgrade[lf]Upgrade: websocket[lf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[lf][lf][split]",
       "sni": null
     },
     "bhttp_config": null
