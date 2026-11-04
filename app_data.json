@@ -349,11 +349,11 @@
     }
   },
   {
-    "category_id": 21,
+    "category_id": 17,
     "config_v2ray": null,
-    "description": "Funcionando",
-    "icon": "https://i.ibb.co/ZzjHm4bb/gt.png",
-    "id": 188,
+    "description": "IP MÉXICO",
+    "icon": "https://i.ibb.co/7tJVrK23/mx.png",
+    "id": 138,
     "mode": "SSH_BHTTP",
     "dt_protocol": "TCP",
     "dt_port": "8000",
@@ -367,16 +367,16 @@
     "hy_up_mbps": 100,
     "hy_down_mbps": 150,
     "hy_version": 1,
-    "sorter": 0,
+    "sorter": 1,
     "status": "ACTIVE",
     "tls_version": "TLSv1.2",
     "udp_ports": [
       7300
     ],
-    "url_check_user": "https://bhttp.maestrogt.shop:2053",
+    "url_check_user": "",
     "auth": {
-      "password": "DEMO",
-      "username": "DEMO",
+      "password": "FnsbM5lF",
+      "username": "Fenix7",
       "v2ray_uuid": null
     },
     "proxy": {
@@ -384,7 +384,7 @@
       "port": 0
     },
     "server": {
-      "host": "192.6.154.167",
+      "host": "192.6.154.13",
       "port": 80
     },
     "dns_server": {
@@ -420,7 +420,7 @@
         "probe_ms": 8000,
         "shutdown_ms": 5000
       },
-      "v2": false
+      "v2": true
     }
   },
   {
