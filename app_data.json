@@ -375,8 +375,8 @@
     ],
     "url_check_user": "",
     "auth": {
-      "password": "TD28tCzW",
-      "username": "Uzumakiddd",
+      "password": "DEMO",
+      "username": "DEMO",
       "v2ray_uuid": null
     },
     "proxy": {
@@ -384,7 +384,7 @@
       "port": 0
     },
     "server": {
-      "host": "172.235.137.177",
+      "host": "192.6.154.167",
       "port": 8080
     },
     "dns_server": {
@@ -530,7 +530,7 @@
     "mode": "SSH_DIRECT",
     "dt_protocol": "TCP",
     "dt_port": "8000",
-    "name": "TIGO PY",
+    "name": "TIGO PY ON",
     "dnstt_key": "",
     "dnstt_name_server": "",
     "dnstt_server": "",
@@ -546,10 +546,10 @@
     "udp_ports": [
       7300
     ],
-    "url_check_user": "https://edwin.maestrogt.shop:2053",
+    "url_check_user": "",
     "auth": {
-      "password": "@Fuck❗🌞",
-      "username": "SerrFocu",
+      "password": "Jenrriv5kjh",
+      "username": "Jenrriv5kjh",
       "v2ray_uuid": null
     },
     "proxy": {
@@ -557,7 +557,7 @@
       "port": 0
     },
     "server": {
-      "host": "172.64.151.210",
+      "host": "3.13.163.63.17",
       "port": 80
     },
     "dns_server": {
@@ -565,7 +565,7 @@
       "dns2": "8.8.4.4"
     },
     "config_payload": {
-      "payload": "HEAD / HTTP/1.6[crlf]Host: sdk.iad-03.braze.com[crlf]Expect: 100-continue[lf][lf][split][lf][lf]GET / HTTP/1.1[crlf]Host:[rotate=tttapp3.focusednet.site;tttapp2.focusednet.site][lf]Expect: 100-continue[lf]Connection: Upgrade[lf]Upgrade: websocket[lf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[lf][lf",
+      "payload": "COPY / HTTP/1.1[crlf]Host: internet.tigo.com.py[crlf][crlf][split][crlf][crlf]GET- / HTTP/1.1[crlf]Host: internet.tigo.com.py[lf][lf]GET /app474806 HTTP/1.1[crlf]Host: [rotate=dmzrxqaocgkps.cloudfront.net;cloudfront-05.cdn-hub.org;d3h3ntcsfhmdx9.cloudfront.net][lf]Connection:  Upgrade[lf]Upgrade: websocket[lf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[lf][lf][split]",
       "sni": null
     },
     "bhttp_config": null
